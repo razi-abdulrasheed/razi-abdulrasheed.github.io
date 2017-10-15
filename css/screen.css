@@ -39,6 +39,9 @@ blockquote{
     font-size: 1.5em;
     font-weight: 300;
     line-height: 1.9em;
+    border-left: 3px solid rgba(0,0,0,.84);
+    font-weight: 400;
+    font-style: italic;
 }
 .quoteName{
     text-transform: uppercase;
@@ -244,7 +247,7 @@ body.malware-origin::before {
     }
 
     blockquote{
-        font-size:1em;     
+        font-size:1em;    
     }
     .quoteName{
         font-size: 0.5em;
